@@ -6,3 +6,4 @@
 # BMR
 # Blackjack
 # AsciiPaint
+# Uno
