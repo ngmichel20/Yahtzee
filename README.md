@@ -7,3 +7,4 @@
 # Blackjack
 # AsciiPaint
 # Uno
+# Yahtzee
